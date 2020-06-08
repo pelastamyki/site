@@ -1,2 +1,5 @@
 title: Pelasta MYKi!
 theme: jekyll-theme-slate
+github:
+  is_project_page: false
+show_downloads: false
