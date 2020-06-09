@@ -16,3 +16,4 @@ Kuva: Hanna Poropudas / Yritysikuistamo
 
 ## Puheenaiheet
 * 8.6.2020: [2895 nimen adressi Mouhijärven yläkoulun säilyttämisen puolesta](https://www.puheenaiheet.fi/koulu/2895-nimen-adressi-mouhijarven-ylakoulun-sailyttamisen-puolesta/)
+* 8.6.2020: [Sastamalan kaupungin tempoileva toiminta tyrmistyttää Mouhijärvellä](https://www.puheenaiheet.fi/mielipide/sastamalan-kaupungin-tempoileva-toiminta-tyrmistyttaa-mouhijarvella/)
