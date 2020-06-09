@@ -14,6 +14,9 @@ Voit vaikuttaa myös suoraan kaupunginvaltuutettuihin - Heidät löydät yhteyst
 ## Somessa
 <i class="fab fa-facebook-square"></i> [pelastaMYKi -ryhmä](https://www.facebook.com/groups/2690443861280824/)
 
+## Viestit
+* 8.6.2020: [Sonja Koivuniemi & Meri Seppänen heidän opinnäytetyöhön pohjautuva viesti päättäjille](https://www.pelastamyki.fi/viestit/sonja-koivuniemi-ja-meri-sepp%C3%A4nen)
+
 ## Mediassa
 ### Aamulehti
 * 8.6.2020: [Älkää viekö meidän koulua!” – Video: yli 200 ihmistä osoitti mieltään Mouhijärven yhteiskoulun pihalla](https://www.aamulehti.fi/a/f5dcb422-f476-4ef8-8043-1fba14564ee6?c=1522737894164)
