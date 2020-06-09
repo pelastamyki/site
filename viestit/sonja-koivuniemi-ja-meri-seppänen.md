@@ -1,3 +1,7 @@
+---
+title: Sonja Koivuniemi ja Meri Seppänen | Opinnäytetyö
+layout: viestit
+---
 Mouhijärven yhteiskoulun lopettaminen ja kouluverkoston supistaminen säästö syihin vedoten käy juuri nyt keskusteluissa kuumana. Haluan myös itse nostaa esille näkökulman, joka osaltaan käsittelee samoja aiheita, joita tämän teeman ympärillä on ollut esillä. Näkökantani kumpuaa osittain myös ammatillisesta huolesta, joka osaltaan koskettaa ihan koko Suomea. Tekstini on pitkä, mutta olen halunnut perustella kantani sekä esittää ne lähteet mistä tietoni ovat peräisin.
 
 Ensin haluan esittää hieman tutkittua taustatietoa suomalaisten lasten koulupäivästä:
