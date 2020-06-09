@@ -22,3 +22,6 @@ Kuva: Hanna Poropudas / Yritysikuistamo
 
 ### Alueviesti
 * 9.6.2020: [“Meitä ei mykistetä!” – Mouhijärvellä osoitettiin mieltä yläkoulun puolesta](https://alueviesti.fi/2020/06/09/meita-ei-mykisteta-mouhijarvella-osoitettiin-mielta-ylakoulun-puolesta/)
+
+### Yle
+* 8.6.2020: [Mouhijärvellä osoitetaan mieltä yläkoulun siirtoa vastaan – koulumatka kasvaisi 35-60 kilometriin](https://yle.fi/uutiset/3-11390683)
