@@ -25,3 +25,4 @@ Kuva: Hanna Poropudas / Yritysikuistamo
 
 ### Yle
 * 8.6.2020: [Mouhijärvellä osoitetaan mieltä yläkoulun siirtoa vastaan – koulumatka kasvaisi 35-60 kilometriin](https://yle.fi/uutiset/3-11390683)
+* 8.6.2020: [Yle Uutiset Pirkanmaa / Radio](https://areena.yle.fi/audio/1-50529295)
