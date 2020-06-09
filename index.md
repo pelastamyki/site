@@ -15,7 +15,7 @@ Voit vaikuttaa myös suoraan kaupunginvaltuutettuihin - Heidät löydät yhteyst
 <i class="fab fa-facebook-square"></i> [pelastaMYKi -ryhmä](https://www.facebook.com/groups/2690443861280824/)
 
 ## Viestit
-* 8.6.2020: [Sonja Koivuniemi & Meri Seppänen heidän opinnäytetyöhön pohjautuva viesti päättäjille](https://www.pelastamyki.fi/viestit/sonja-koivuniemi-ja-meri-sepp%C3%A4nen)
+* 8.6.2020: [Sonja Koivuniemi & Meri Seppänen - heidän opinnäytetyöhön pohjautuva viesti päättäjille](https://www.pelastamyki.fi/viestit/sonja-koivuniemi-ja-meri-sepp%C3%A4nen)
 
 ## Mediassa
 ### Aamulehti
