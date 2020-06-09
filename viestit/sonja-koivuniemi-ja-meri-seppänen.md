@@ -25,3 +25,6 @@ Tätä tekstiä kirjoittaessani olen viittä vaille valmis fysioterapeutti. Huol
 Kiitos, että jaksoit lukea loppuun asti. Toivottavasti myös tämä näkökulma herättää pohdintaa tulevaisuuden päätöksiä tehdessä.
 
 Lähdeviitteellisten tekstien copyright: Sonja Koivuniemi & Meri Seppänen
+
+
+<a href="https://www.pelastamyki.fi">< Palaa pääsivulle</a>
