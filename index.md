@@ -9,6 +9,7 @@ Kuva: Hanna Poropudas / Yritysikuistamo
 **Aika:** maanantaina 15.6.2020 klo 18.00  
 **Paikka:** Sylvään koulu, Ojansuunkatu 8, 38200 Sastamala ([Google maps](https://goo.gl/maps/bGFjgF2yDoGZheTk9))
 
+Voit vaikuttaa myös suoraan kaupunginvaltuutettuihin - Heidät löydät yhteystietoineen kaupungin sivuilta: [Kaupunginvaltuutetut ja varavaltuutetut yhteystietoineen](https://www.sastamala.fi/yhteystiedot/index.tmpl?sivu_id=9998)
 
 ## Somessa
 <i class="fab fa-facebook-square"></i> [pelastaMYKi -ryhmä](https://www.facebook.com/groups/2690443861280824/)
