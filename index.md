@@ -8,9 +8,6 @@ Kuva: Hanna Poropudas / Yritysikuistamo
 
 Mouhijärven Yhteiskoulu, eli tuttavallisemmin **MYKi** on lopetusuhan alla. Sastamalan kaupungin sopeutusohjelmassa kartoitetaan Mouhijärven yhteiskoulun yläluokkien siirtämistä kaupungin ainoaksi kaavaillulle yläasteelle, Sylvään kouluun, joka sijaitsee MYKistä liki **30 kilometrin päässä Vammalassa**. 
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d122131.08660315415!2d22.856717668020146!3d61.426090137288526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e6!4m5!1s0x46892e99c1a690d5%3A0x848a75901ee1e5f3!2sMouhij%C3%A4rven%20Koulu%2C%20Uotsolantie%2030%2C%2038460%20Sastamala!3m2!1d61.514534999999995!2d22.9991947!4m5!1s0x46893468dae162d1%3A0xa4c37ac6dd002e99!2sVammala%20Upper%20Secondary%20School%2C%20Marttilankatu%2020%2C%2038200%20Sastamala!3m2!1d61.3421659!2d22.913569799999998!5e0!3m2!1sen!2sfi!4v1591727769976!5m2!1sen!2sfi" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-
 Tämä tarkoittaisi paitsi nykyisen koulun oppilaille huomattavaa muutosta koulupäiviin, niiden kestoon ja koulumatkan pituuteen myös lukemattomia kerrannaisvaikutuksia asuinalueellamme ja koko Sastamalan kaupungille. Olemme ehdottomasti tätä hanketta vastaan!
 
 Tarkoituksenamme on kerätä tälle sivustolle tietoa kaikille, ketä suunniteltu muutos koskee, ja ennen kaikkea päätöstä tekeville kaupunginvaltuutetuille. **Meitä ei MYKistetä - pelastetaan MYKi yhdessä!**
