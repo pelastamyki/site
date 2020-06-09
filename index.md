@@ -4,6 +4,8 @@ title: Etusivu
 ![Mikä on lasten etu?](images/103828085_1600217446805551_61355340922525351_n.jpg)
 Kuva: Hanna Poropudas / Yritysikuistamo
 
+# Somessa
+<i class="fab fa-facebook-square"></i> [pelastaMYKi -ryhmä](https://www.facebook.com/groups/2690443861280824/)
 
 # Mediassa
 ## Aamulehti
