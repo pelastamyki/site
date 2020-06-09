@@ -1,7 +1,7 @@
 ---
 title: Etusivu
 ---
- <img alt="Mikä on lasten etu?" src="images/103828085_1600217446805551_61355340922525351_n.jpg" width="600px">
+ <img alt="Mikä on lasten etu?" src="images/103828085_1600217446805551_61355340922525351_n.jpg" width="610px">
 Kuva: Hanna Poropudas / Yritysikuistamo
 
 # Tervetuloa pelasta MYKi -sivustolle 
