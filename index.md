@@ -1,10 +1,6 @@
 ---
 title: Etusivu
 ---
-
-# Pelastetaan MYKi!
-
-
 # Mediassa
 
 ## Tyrvään Sanomat
