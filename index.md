@@ -6,7 +6,7 @@ Kuva: Hanna Poropudas / Yritysikuistamo
 
 # Seuraava mielenilmaus
 
-**Aika:** 15.6.2020 18.00 
+**Aika:** 15.6.2020 18.00  
 **Paikka:** Sylvään koulu, Ojansuunkatu 8, 38200 Sastamala (![Google maps](https://goo.gl/maps/bGFjgF2yDoGZheTk9))
 
 
