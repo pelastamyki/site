@@ -27,4 +27,4 @@ Kiitos, että jaksoit lukea loppuun asti. Toivottavasti myös tämä näkökulma
 Lähdeviitteellisten tekstien copyright: Sonja Koivuniemi & Meri Seppänen
 
 
-<a href="https://www.pelastamyki.fi">< Palaa pääsivulle</a>
+<a href="https://www.pelastamyki.fi"><i class="fas fa-home"></i> Palaa pääsivulle</a>
