@@ -4,6 +4,13 @@ title: Etusivu
 ![Mikä on lasten etu?](images/103828085_1600217446805551_61355340922525351_n.jpg)
 Kuva: Hanna Poropudas / Yritysikuistamo
 
+# Seuraava mielenilmaus
+
+**Aika:** 15.6.2020 18.00
+**Paikka:** Sylvään koulu, Ojansuunkatu 8, 38200 Sastamala (![Google maps](https://goo.gl/maps/bGFjgF2yDoGZheTk9))
+
+
+
 ## Somessa
 <i class="fab fa-facebook-square"></i> [pelastaMYKi -ryhmä](https://www.facebook.com/groups/2690443861280824/)
 
