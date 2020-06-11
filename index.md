@@ -27,6 +27,7 @@ Voit vaikuttaa myös suoraan kaupunginvaltuutettuihin - Heidät löydät yhteyst
 
 ## Mediassa
 ### Aamulehti
+* 11.6.2020: [Sastamalan keskustaa on yritetty tekohengittää, mutta Mouhijärvi on oikeasti vetovoimainen asuinpaikka](https://www.aamulehti.fi/a/90d36a4e-aaee-425e-805e-ec809a3b54a2)
 * 8.6.2020: [Älkää viekö meidän koulua!” – Video: yli 200 ihmistä osoitti mieltään Mouhijärven yhteiskoulun pihalla](https://www.aamulehti.fi/a/f5dcb422-f476-4ef8-8043-1fba14564ee6?c=1522737894164)
 
 ### Alueviesti
