@@ -13,7 +13,7 @@ Tämä tarkoittaisi paitsi nykyisen koulun oppilaille huomattavaa muutosta koulu
 Tarkoituksenamme on kerätä tälle sivustolle tietoa kaikille, ketä suunniteltu muutos koskee, ja ennen kaikkea päätöstä tekeville kaupunginvaltuutetuille. **Meitä ei MYKistetä - pelastetaan MYKi yhdessä!**
 
 
-## Tässä esimerkki yhden nuoren pidentyvästä koulumatkasta
+**Tässä esimerkki yhden nuoren pidentyvästä koulumatkasta, jos MYK lopetetaan:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A0hE57WSpNE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Seuraava mielenilmaus
