@@ -28,6 +28,7 @@ Voit vaikuttaa myös suoraan kaupunginvaltuutettuihin - Heidät löydät yhteyst
 
 ## Viestit
 * 8.6.2020: [Sonja Koivuniemi - Sonjan ja Merin opinnäytetyöhön pohjautuva viesti päättäjille](https://www.pelastamyki.fi/viestit/sonja-koivuniemi-ja-meri-sepp%C3%A4nen)
+* 7.6.2020: [MLL / Mouhijärven alueen kouluverkon muutokset vailla perusteita](https://mouhijarvi.mll.fi/@Bin/169779/kannanotto_Mouhij%c3%a4rven%20koulut%202020-06-07.pdf)
 
 ## Mediassa
 ### Aamulehti
