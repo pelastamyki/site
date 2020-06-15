@@ -4,7 +4,14 @@ title: Etusivu
  <img alt="Mikä on lasten etu?" src="images/103828085_1600217446805551_61355340922525351_n.jpg" width="610px">
 Kuva: Hanna Poropudas / Yritysikuistamo
 
-# Tervetuloa pelasta MYKi -sivustolle 
+
+# <i class="fas fa-heart"></i>
+
+
+16.6.2020 kaupunginvaltuusto päätti että #pelastetaanMYKi - Kiitos kaikille mukana olleille!
+
+
+## Tervetuloa pelasta MYKi -sivustolle 
 
 Mouhijärven Yhteiskoulu, eli tuttavallisemmin **MYKi** on lopetusuhan alla. Sastamalan kaupungin sopeutusohjelmassa kartoitetaan Mouhijärven yhteiskoulun yläluokkien siirtämistä kaupungin ainoaksi kaavaillulle yläasteelle, Sylvään kouluun, joka sijaitsee MYKistä liki **30 kilometrin päässä Vammalassa** ([Google maps](https://goo.gl/maps/vfB2qmGvWir7F63R9)). 
 
