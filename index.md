@@ -18,7 +18,7 @@ Tarkoituksenamme on kerätä tälle sivustolle tietoa kaikille, ketä suunnitelt
 
 ## Seuraava mielenilmaus
 
-**Aika:** maanantaina 15.6.2020 klo 17.30  
+**Aika:** maanantaina 15.6.2020 klo 16.30  
 **Paikka:** Sylvään koulu, Ojansuunkatu 8, 38200 Sastamala ([Google maps](https://goo.gl/maps/bGFjgF2yDoGZheTk9))
 
 Voit vaikuttaa myös suoraan kaupunginvaltuutettuihin - Heidät löydät yhteystietoineen kaupungin sivuilta: [Kaupunginvaltuutetut ja varavaltuutetut yhteystietoineen](https://www.sastamala.fi/yhteystiedot/index.tmpl?sivu_id=9998)
