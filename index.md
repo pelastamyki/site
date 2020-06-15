@@ -5,7 +5,7 @@ title: Etusivu
 Kuva: Hanna Poropudas / Yritysikuistamo
 
 
-# <i class="fas fa-heart"></i>
+# <i style="color: red" class="fas fa-heart"></i>
 
 
 16.6.2020 kaupunginvaltuusto päätti että #pelastetaanMYKi - Kiitos kaikille mukana olleille!
