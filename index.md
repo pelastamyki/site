@@ -8,7 +8,7 @@ Kuva: Hanna Poropudas / Yritysikuistamo
 # <i style="color: red" class="fas fa-heart"></i>
 
 
-16.6.2020 kaupunginvaltuusto päätti että #pelastetaanMYKi - Kiitos kaikille mukana olleille!
+<strong>16.6.2020</strong> kaupunginvaltuusto päätti että #pelastetaanMYKi - Kiitos kaikille mukana olleille!
 
 
 ## Tervetuloa pelasta MYKi -sivustolle 
